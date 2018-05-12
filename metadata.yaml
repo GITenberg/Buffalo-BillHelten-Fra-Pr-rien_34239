@@ -1,0 +1,29 @@
+_repo: Buffalo-BillHelten-Fra-Pr-rien_34239
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wendelbo, Per
+    gutenberg_agent_id: '36897'
+    url: http://www.gutenberg.org/2009/agents/36897
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nielsen, Roger
+    gutenberg_agent_id: '36896'
+    url: http://www.gutenberg.org/2009/agents/36896
+description: ''
+gutenberg_issued: '2010-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34239'
+language: 'no'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Buffalo Bill, 1846-1917'
+title: 'Buffalo Bill: Helten Fra Prærien'
+url: http://www.gutenberg.org/ebooks/34239
